@@ -35,6 +35,28 @@ const Home = () => {
               "https://media.shortform.com/covers/png/the-lean-startup-cover@8x.png"
             }
           />
+         
+        </div>
+
+        <div className="home_row">
+          <Product
+            id="12321341"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Businesses Paperback"
+            price={11.96}
+            rating={5}
+            image={
+              "https://media.shortform.com/covers/png/the-lean-startup-cover@8x.png"
+            }
+          />
+          <Product
+            id="12321341"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Businesses Paperback"
+            price={11.96}
+            rating={5}
+            image={
+              "https://media.shortform.com/covers/png/the-lean-startup-cover@8x.png"
+            }
+          />
           <Product
             id="12321341"
             title="The Lean Startup: How Constant Innovation Creates Radically Successfull Businesses Paperback"
